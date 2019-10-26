@@ -8,7 +8,9 @@ Paper: ICASSP 2020 submision (coming soon)
 ## Architecture
 <img src="arch.PNG"/>
 
-#### Training Pairs, Prediction and Post-Processing
+
+
+## Training Pairs, Prediction and Post-Processing
 <img src="represn_steps.PNG"/>
 
 ## Samples
@@ -23,4 +25,4 @@ This approximation can successfully map the ROI on the validation, from the star
 
 #### Implementation
 
-Tensorflow implementation is in the form of Jupyter-Notebook. Might also include the .html of the same for listening to the audio in the Jupyter, to judge the noisiness of the input audio.
+We are releasing a Jupyter-Notebook which includes the TensorFlow implementation. Might soon include the .html of notebook for listening to the audio,in order to judge the noisiness of the input audio.
