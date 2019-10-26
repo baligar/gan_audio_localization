@@ -21,6 +21,9 @@ The input can be a 3-second audio sampled at 16000 Hz. For demonstration purpose
 Overlaying the signals to aid visual comparison.
 <img src="samples_0.png"/>
 
+Example of a bad prediction:
+<img src="false_pred.PNG"/>
+
 
 
 ## Dataset and Performance
@@ -29,4 +32,4 @@ This approximation can successfully map the ROI on the validation, from the star
 
 #### Implementation
 
-We are releasing a Jupyter-Notebook which includes the TensorFlow implementation. Might soon include the .html of notebook for listening to the audio,in order to judge the noisiness of the input audio.
+We are releasing a Jupyter-Notebook which includes the TensorFlow implementation. Might soon include the .html of notebook for listening to the audio, to judge the noisiness of the input audio.
