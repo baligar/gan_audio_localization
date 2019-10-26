@@ -19,6 +19,8 @@ The input can be a 3-second audio sampled at 16000 Hz. For demonstration purpose
 **These samples reflect the validation audio set performance.** The generated training samples are much crisper; Not included here.
 <img src="samples_0.png"/>
 
+Overlaying the signals to aid visual comparison.
+
 ## Dataset and Performance
 
 This approximation can successfully map the ROI on the validation, from the start and stop points for over 98% of the ROIs (989/1000) for the [Nsynth](https://magenta.tensorflow.org/datasets/nsynth) instrument dataset and (840/1000) for the [SC-09](https://github.com/chrisdonahue/wavegan#datasets) dataset.
