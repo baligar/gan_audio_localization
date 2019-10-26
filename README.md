@@ -17,9 +17,11 @@ Paper: ICASSP 2020 submision (coming soon)
 The input can be a 3-second audio sampled at 16000 Hz. For demonstration purposes, the ROI here is a 1 or two 1-second audio features next to each other, which can be an instrument or an uttered digit.
 
 **These samples reflect the validation audio set performance.** The generated training samples are much crisper; Not included here.
-<img src="samples_0.png"/>
 
 Overlaying the signals to aid visual comparison.
+<img src="samples_0.png"/>
+
+
 
 ## Dataset and Performance
 
