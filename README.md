@@ -6,12 +6,12 @@ Implementation of the Generative Adversarial Localization of Audio Regions of In
 Paper: ICASSP 2020 submision (coming soon)
 
 ## Architecture
-<img src="arch.PNG"/>
+<img src="static/arch.PNG"/>
 
 
 
 ## Training Pairs, Prediction and Post-Processing
-<img src="represn_steps.PNG"/>
+<img src="static/represn_steps.PNG"/>
 
 ## Samples
 The input can be a 3-second audio sampled at 16000 Hz. For demonstration purposes, the ROI here is a 1 or two 1-second audio features next to each other, which can be an instrument or an uttered digit.
@@ -19,10 +19,10 @@ The input can be a 3-second audio sampled at 16000 Hz. For demonstration purpose
 **These samples reflect the validation audio set performance.** The generated training samples are much crisper; Not included here.
 
 Overlaying the signals to aid visual comparison.
-<img src="samples_0.png"/>
+<img src="static/samples_0.png"/>
 
 Example of a sub-optimal and conservative prediction:
-<img src="false_pred.PNG"/>
+<img src="static/false_pred.PNG"/>
 
 
 
