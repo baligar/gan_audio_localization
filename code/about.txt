@@ -1,0 +1,2 @@
+Attached html file of the jupyter-notebook to listen to the noisiness of the input samples during validation. 
+There is only one sample though, at the very end.
