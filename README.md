@@ -15,9 +15,9 @@ Paper: ICASSP 2020 submision (coming soon)
 
 ## Samples
 
-**UPDATE (11/1/2019):** We have now added validation samples from our experiments on [CLO-43SD](https://wp.nyu.edu/birdvox/codedata/) dataset from Birdvox. The datset consists of 43 different species of North American woodwarblers in from of ROIs. Total number of ROIs were 5,428 which were processed later to 1 sec by adding padding and noise, as input to the Generative localizer.
+**UPDATE (11/1/2019):** We have now added validation samples from our experiments on [CLO-43SD](https://wp.nyu.edu/birdvox/codedata/) dataset from Birdvox. The dataset consists of 43 different species of North American woodwarblers in from of ROIs. Total number of ROIs were 5,428 which were processed later to 1 sec by adding padding and noise, as input to the Generative localizer.
 
-The results reflect the Generative localizer's capacity to localize variable length events which are also very short (0.1 sec to 0.3 sec). As intital results, we got over 88% accuracy in localizing ROI with only 2% of False positives.
+The results reflect the Generative localizer's capacity to localize variable length events which are also very short (0.1 sec to 0.3 sec). In our intital experiments with very noisy samples, we got over 90% accuracy in localizing the ROI with under 1% of False positives.
 
 Validation set results at 36th Epoch. Dotted - Ground Truth. Solid Pink - Predicted Sinusoid.
 <img src="static/epoch36_0.PNG"/>
