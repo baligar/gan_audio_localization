@@ -27,7 +27,7 @@ Examples of false positives:
 <img src="static/epoch36_falsePositive.PNG"/>
 
 
-### **The following samples were included and relevant to the ICASSP submission:**
+### **The following samples were mentioned in the ICASSP submission:**
 
 The input can be a 3-second audio sampled at 16000 Hz. For demonstration purposes, the ROI here is a 1 or two 1-second audio features next to each other, which can be an instrument or an uttered digit.
 
