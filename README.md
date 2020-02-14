@@ -3,8 +3,6 @@
 
 Implementation of the Generative Adversarial Localization of Audio Regions of Interest (ROI) using a learned sinusoid representation.
 
-Paper: ICASSP 2020 submision (coming soon)
-
 ## Architecture
 <img src="static/arch.PNG"/>
 
